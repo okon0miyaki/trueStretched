@@ -22,4 +22,7 @@ Alternatively, you can download a ready-to-use executable file from the Release 
 note : if u want to keep the stretch option, just change your system display to your previous resolution so you don't need to run the script again.
 
 
+nb : i'm not responsible for anything else, just "Do At Your Own Risk".
+
+
 cc : xyba1337
